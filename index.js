@@ -61,6 +61,8 @@ const questions = [
 function writeToFile(fileName, data) {
     let fileContents = 
     `# ${data.project_name}
+    [![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/${data.github_username}/${data.project_name})
+
 ## Description
     ​
         ${data.description}
@@ -141,4 +143,3 @@ init();
 
 
 
-// [![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/${data.github_username}/${data.project_name})
