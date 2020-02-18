@@ -1,5 +1,6 @@
 # ksjasl
-    [![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/wrose001/project1)
+   [![GitHub license](https://img.shields.io/badge/license-GPL%203.0-green.svg)](https://github.com/wrose001/project1)
+   [![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/wrose001/project1)
 
 ## Description
     ​
