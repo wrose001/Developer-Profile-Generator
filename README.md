@@ -2,7 +2,7 @@
 
 
 # demo_day_project2
-[![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/calvincarter/demo_day_project2)
+[![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/wrose001/project1)
 ​
 ## Description
 ​
