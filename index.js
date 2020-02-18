@@ -61,53 +61,54 @@ const questions = [
 function writeToFile(fileName, data) {
     let fileContents = 
     `# ${data.project_name}
-    ## Description
+## Description
     ​
-    ${data.description}
+        ${data.description}
     ​
-    ## Table of Contents 
+## Table of Contents 
     ​
-    * [Installation](#installation)
+        * [Installation](#installation)
+        ​
+        * [Usage](#usage)
+        ​
+        * [License](#license)
+        ​
+        * [Contributing](#contributing)
+        ​
+        * [Tests](#tests)
+        ​
+        * [Questions](#questions)
     ​
-    * [Usage](#usage)
-    ​
-    * [License](#license)
-    ​
-    * [Contributing](#contributing)
-    ​
-    * [Tests](#tests)
-    ​
-    * [Questions](#questions)
-    ​
-    ## Installation
+## Installation
     ​
     To install necessary dependencies, run the following command:
     ​
 
-    ${data.dependencies}
+        ${data.dependencies}
 
     ​
-    ## Usage
+## Usage
     ​
-    ${data.usingRepo}
+        ${data.usingRepo}
     ​
-    ## License
+## License
     ​
-    This project is licensed under the ${data.licenses} license.
+        This project is licensed under the ${data.licenses} license.
       
-    ## Contributing
+## Contributing
     ​
-    ${data.contributingRepo}
+        ${data.contributingRepo}
     ​
-    ## Tests
+## Tests
     ​
     To run tests, run the following command:
     ​
 
-    ${data.tests}
+        ${data.tests}
 
-    ​
-    ## Questions
+
+        ​
+## Questions
     ​
     <img src=${data.avatar_url}" alt="avatar" style="border-radius: 16px" width="30" />
     ​
