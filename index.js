@@ -60,14 +60,7 @@ const questions = [
 
 function writeToFile(fileName, data) {
     let fileContents = 
-    `   # ${data.project_name}
-
-
-    # demo_day_project2
-    [![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/${data.github_username}/${data.project_name})
-    
-
-
+    `# ${data.project_name}
     ## Description
     ​
     ${data.description}
@@ -90,9 +83,9 @@ function writeToFile(fileName, data) {
     ​
     To install necessary dependencies, run the following command:
     ​
-    \`\`\`
+
     ${data.dependencies}
-    \`\`\`
+
     ​
     ## Usage
     ​
@@ -110,15 +103,16 @@ function writeToFile(fileName, data) {
     ​
     To run tests, run the following command:
     ​
-    \`\`\`
+
     ${data.tests}
-    \`\`\`
+
     ​
     ## Questions
     ​
     <img src=${data.avatar_url}" alt="avatar" style="border-radius: 16px" width="30" />
     ​
     If you have any questions about the repo, open an issue or contact [${data.github_username}](https://api.github.com/users/${data.login}).
+    
     `
     fs.writeFile(fileName, fileContents, function (err) {
         if (err) throw err;
@@ -143,3 +137,7 @@ function init() {
 }
 
 init();
+
+
+
+// [![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/${data.github_username}/${data.project_name})
