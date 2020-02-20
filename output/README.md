@@ -32,7 +32,7 @@ To run tests, run the following command:  ​
 
 sdkfjsdk
 ## Questions
-<img src=https://avatars0.githubusercontent.com/u/55845463?v=4/" alt="avatar" style="border-radius: 16px" width="30" />
+[![User](https://avatars0.githubusercontent.com/u/55845463?v=4/)](https://avatars0.githubusercontent.com/u/55845463?v=4/)
     ​
 If you have any questions about the repo, open an issue or contact [wrose001](https://api.github.com/users/undefined).
     
