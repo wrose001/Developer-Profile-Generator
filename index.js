@@ -66,7 +66,6 @@ function writeToFile(fileName, data) {
 ## Description
 ${data.description}
 ## Table of Contents 
-    ​
 * [Installation](#installation)
   ​
 * [Usage](#usage)
@@ -85,22 +84,16 @@ To install necessary dependencies, run the following command:
 ${data.dependencies}
     ​
 ## Usage
-    ​
 ${data.usingRepo}
     ​
-## License
-    ​
+## License ​
 This project is licensed under the ${data.licenses} license.
       
 ## Contributing
-    ​
 ${data.contributingRepo}
     ​
 ## Tests
-    ​
 To run tests, run the following command:
-    ​
-
 ${data.tests}
 
 
