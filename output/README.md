@@ -22,25 +22,16 @@ To install necessary dependencies, run the following command:
 dkfjhsdklf
 ## Usage
 dfsdf
-## License
-    ​
+## License ​
 This project is licensed under the ISC license.
       
-## Contributing
-    ​
+## Contributing ​
 sdfd
-    ​
-## Tests
-    ​
-To run tests, run the following command:
-    ​
+## Tests​
+To run tests, run the following command:  ​
 
 sdkfjsdk
-
-
-        ​
 ## Questions
-    ​
 <img src=https://avatars0.githubusercontent.com/u/55845463?v=4/" alt="avatar" style="border-radius: 16px" width="30" />
     ​
 If you have any questions about the repo, open an issue or contact [wrose001](https://api.github.com/users/undefined).
