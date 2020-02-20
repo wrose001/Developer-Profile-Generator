@@ -19,11 +19,7 @@ nothing 1
     ​
 ## Installation​
 To install necessary dependencies, run the following command:
-    ​
-
         dkfjhsdklf
-
-    ​
 ## Usage
     ​
         dfsdf
