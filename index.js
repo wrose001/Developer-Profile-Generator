@@ -61,7 +61,7 @@ const questions = [
 function writeToFile(fileName, data) {
     let fileContents = 
     `# ${data.project_name}
-[![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/${data.github_username}/${data.project_name})
+![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)(https://github.com/${data.github_username}/${data.project_name})
 
 ## Description
 ${data.description}
@@ -99,7 +99,7 @@ ${data.tests}
 
 ## Questions
 
-[![User](${data.avatar_url})](${data.avatar_url})
+![User](${data.avatar_url})](${data.avatar_url})
 <br><br>    ​
 If you have any questions about the repo, open an issue or contact [${data.github_username}](https://api.github.com/users/${data.login}).
     
