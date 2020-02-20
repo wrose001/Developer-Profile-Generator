@@ -1,8 +1,8 @@
-# ATX Project
-![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)(https://github.com/wrose001/ATX Project)
+# Awesome Project
+![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)(https://github.com/wrose001/Awesome Project)
 
 ## Description
-This is a test description.
+This is a project.
 ## Table of Contents 
 * [Installation](#installation)
   ​
@@ -19,20 +19,20 @@ This is a test description.
 ## Installation
 To install necessary dependencies, run the following command:
 
-None
+Axios and Inquierer
     ​
 ## Usage
-Additional testing
+Nothing
     ​
 ## License ​
-This project is licensed under the MIT license.
+This project is licensed under the BSD license.
       
 ## Contributing
-Test test tes
+Nada
     ​
 ## Tests
 To run tests, run the following command:
-Again, just a test
+All of them
 
 
 ## Questions
