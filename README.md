@@ -1,57 +1,39 @@
 # Developer-Profile-Generator
-
-
-# demo_day_project2
-[![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/wrose001/project1)
 ​
 ## Description
 ​
-the best project ever project
+This application prompts users to input their Github user name and details about their deployed project, and then generates a README.
 ​
-## Table of Contents 
+## Included Files
 ​
-* [Installation](#installation)
+* index.js
 ​
-* [Usage](#usage)
+* package.json
 ​
-* [License](#license)
+* package-lock.json
 ​
-* [Contributing](#contributing)
+* Output Folder that holds a generated README.md
 ​
-* [Tests](#tests)
+* images folder
 ​
-* [Questions](#questions)
+* README for this project
+
+## Images
 ​
-## Installation
+[README Generator](/images/Generated_README.png) 
 ​
-To install necessary dependencies, run the following command:
+## Built With
 ​
-```
-npm i
-```
-​
-## Usage
-​
-nothing just welcome all hands on deck
-​
-## License
-​
-This project is licensed under the GPL 3.0 license.
+This app was build with JavaScript, Node.js, and pack.json files. 
   
 ## Contributing
 ​
-please help
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 ​
-## Tests
+## Acknowledgments
 ​
-To run tests, run the following command:
+Many thanks to my tutor and for the TAs, Mark and Amanda, as well as my instructor, Calvin, for their guidance.
 ​
-```
-npm test
-```
-​
-## Questions
-​
-<img src="https://avatars1.githubusercontent.com/u/4831868?v=4" alt="avatar" style="border-radius: 16px" width="30" />
-​
-If you have any questions about the repo, open an issue or contact [calvincarter](https://api.github.com/users/calvincarter).
+
