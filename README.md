@@ -22,7 +22,7 @@ This application prompts users to input their Github user name and details about
 
 ## Images/GIF
 [GIF](/util/README.gif)
-​<br>
+​<br><br>
 [README Generator](/images/Generated_README.png) 
 ​
 ## Built With
