@@ -1,5 +1,5 @@
 # nothing
-    [![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/wrose001/nothing)
+[![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/wrose001/nothing)
 
 ## Description
 nothing 1
@@ -7,15 +7,15 @@ nothing 1
 ## Table of Contents  ​
 * [Installation](#installation)
         ​
-        * [Usage](#usage)
+* [Usage](#usage)
         ​
-        * [License](#license)
+* [License](#license)
         ​
-        * [Contributing](#contributing)
+* [Contributing](#contributing)
         ​
-        * [Tests](#tests)
+* [Tests](#tests)
         ​
-        * [Questions](#questions)
+* [Questions](#questions)
     ​
 ## Installation​
 To install necessary dependencies, run the following command:
@@ -24,25 +24,25 @@ dkfjhsdklf
 dfsdf
 ## License
     ​
-        This project is licensed under the ISC license.
+This project is licensed under the ISC license.
       
 ## Contributing
     ​
-        sdfd
+sdfd
     ​
 ## Tests
     ​
-    To run tests, run the following command:
+To run tests, run the following command:
     ​
 
-        sdkfjsdk
+sdkfjsdk
 
 
         ​
 ## Questions
     ​
-    <img src=https://avatars0.githubusercontent.com/u/55845463?v=4" alt="avatar" style="border-radius: 16px" width="30" />
+<img src=https://avatars0.githubusercontent.com/u/55845463?v=4/" alt="avatar" style="border-radius: 16px" width="30" />
     ​
-    If you have any questions about the repo, open an issue or contact [wrose001](https://api.github.com/users/undefined).
+If you have any questions about the repo, open an issue or contact [wrose001](https://api.github.com/users/undefined).
     
     
