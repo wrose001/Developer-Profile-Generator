@@ -15,6 +15,8 @@ This application prompts users to input their Github user name and details about
 * Output Folder that holds a generated README.md
 ​
 * images folder
+
+* util folder with GIF
 ​
 * README for this project
 
