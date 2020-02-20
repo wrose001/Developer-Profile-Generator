@@ -19,11 +19,9 @@ nothing 1
     ​
 ## Installation​
 To install necessary dependencies, run the following command:
-        dkfjhsdklf
+dkfjhsdklf
 ## Usage
-    ​
-        dfsdf
-    ​
+dfsdf
 ## License
     ​
         This project is licensed under the ISC license.
