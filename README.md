@@ -18,7 +18,8 @@ This application prompts users to input their Github user name and details about
 ​
 * README for this project
 
-## Images
+## Images/GIF
+[GIF](/util/README.gif)
 ​
 [README Generator](/images/Generated_README.png) 
 ​
