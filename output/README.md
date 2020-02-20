@@ -1,8 +1,8 @@
-# Santa Barbara Project
-    [![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/wrose001/Santa Barbara Project)
+# Seattle Project
+[![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://github.com/wrose001/Seattle Project)
 
 ## Description
-Nope
+Uhhhhhhhhh
 ## Table of Contents 
 * [Installation](#installation)
   ​
@@ -22,23 +22,23 @@ To install necessary dependencies, run the following command:
 No
     ​
 ## Usage
-Niet
+Ei
     ​
 ## License ​
-This project is licensed under the ISC license.
+This project is licensed under the MIT license.
       
 ## Contributing
 Nein
     ​
 ## Tests
 To run tests, run the following command:
-Nada
+Niet
 
 
 ## Questions
 
 [![User](https://avatars0.githubusercontent.com/u/55845463?v=4)](https://avatars0.githubusercontent.com/u/55845463?v=4)
-    ​
+<br><br>    ​
 If you have any questions about the repo, open an issue or contact [wrose001](https://api.github.com/users/undefined).
     
     
