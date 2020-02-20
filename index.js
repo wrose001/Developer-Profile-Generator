@@ -99,7 +99,7 @@ ${data.tests}
 
 ## Questions
 
-![User](${data.avatar_url})](${data.avatar_url})
+[![User](${data.avatar_url})](${data.avatar_url})
 <br><br>    ​
 If you have any questions about the repo, open an issue or contact [${data.github_username}](https://api.github.com/users/${data.login}).
     
