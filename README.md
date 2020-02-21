@@ -37,6 +37,6 @@ Please make sure to update tests as appropriate.
 ​
 ## Acknowledgments
 ​
-Many thanks to my tutor and for the TAs, Mark and Amanda, as well as my instructor, Calvin, for their guidance. sd,kfhslkfhhflkhflkdh
+Many thanks to my tutor and for the TAs, Mark and Amanda, as well as my instructor, Calvin, for their guidance. 
 ​
 
